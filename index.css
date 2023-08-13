@@ -26,3 +26,10 @@ main {
     margin: 20px;
     text-align: center;
 }
+
+footer {
+    background-color: #1976D2;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
